@@ -22,7 +22,7 @@ empty $TAGS
 TAGS=($TAGS)
 
 echo ""
-echo "- $TITLE - [$LINK]($LINK)"
+echo "- **$TITLE** - [$LINK]($LINK)"
 echo ""
 echo "  $DESCRIPTION"
 echo ""

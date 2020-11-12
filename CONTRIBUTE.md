@@ -3,7 +3,7 @@
 Contributers pls use the following template to add new links
 
 ```
-- Short Description # [https://duckduckgo.com](https://duckduckgo.com)
+- **Short Description** - [https://duckduckgo.com](https://duckduckgo.com)
 
   Long Description
   

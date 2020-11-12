@@ -1,26 +1,26 @@
 # Sammelsurium
 
-A repository that holds interesting web links and projects from all over the web.
+*A repository that holds interesting web links and projects from all over the web.*
 
 
 
 # Projects
 
-A category for project specific links (e.g. github repsitories)
+*A category for project specific links (e.g. github repsitories)*
 
 
 
 # Leadgeneration
 
-A category for common tools and helpers for Blogs or Companies to boost their Skills in SEO and lead generation.
+*A category for common tools and helpers for Blogs or Companies to boost their Skills in SEO and lead generation.*
 
-- Ubersuggest by Neil Patel - [https://app.neilpatel.com/ubersuggest](https://app.neilpatel.com/ubersuggest)
+- **Ubersuggest by Neil Patel** - [https://app.neilpatel.com/ubersuggest](https://app.neilpatel.com/ubersuggest)
 
   Keyword Search and ranking to find out on what people search where and get insights what relates to your product, criteria or knowledge.
   
   ![KEYWORDS](https://img.shields.io/badge/-KEYWORDS-informational)
 
-- Google's Keyword Planner - [https://ads.google.com/home/tools/keyword-planner/](https://ads.google.com/home/tools/keyword-planner/)
+- **Google's Keyword Planner** - [https://ads.google.com/home/tools/keyword-planner/](https://ads.google.com/home/tools/keyword-planner/)
 
   Keyword Planning made by google to search and get rankings of your keywords.
 
@@ -30,9 +30,9 @@ A category for common tools and helpers for Blogs or Companies to boost their Sk
 
 # Technology
 
-A category for technology related links.
+*A category for technology related links.*
 
-- Bicycle Technical Info - [https://sheldonbrown.com/](https://sheldonbrown.com/)
+- **Bicycle Technical Info** - [https://sheldonbrown.com/](https://sheldonbrown.com/)
 
   If you are searching for ancient bicycle tech and a history of what parts are compatible with yours 'Sheldon Brown' has the answer. The most complete catalog of bicycle tech ever made.
   
@@ -42,11 +42,10 @@ A category for technology related links.
 
 # Repair
 
-A category for repairements guides and links.
+*A category for repairements guides and links.*
 
-- Motorcycle Repair Guide - [http://www.dansmc.com/MC_repaircourse.htm](http://www.dansmc.com/MC_repaircourse.htm)
+- **Motorcycle Repair Guide** - [http://www.dansmc.com/MC_repaircourse.htm](http://www.dansmc.com/MC_repaircourse.htm)
 
   A very good overview of repair and tool instructions for motorcycles. Many repair instructions in different categories for historical bikes and common problems.
   
   ![MOTORCYCLE](https://img.shields.io/badge/-MOTORCYCLE-informational)
-  
