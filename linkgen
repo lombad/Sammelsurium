@@ -1,0 +1,33 @@
+#!/bin/bash
+
+function empty(){
+    if [ "$1" == "" ]; then
+        echo "Aborting due to empty input ..."
+        exit 1
+    fi
+}
+
+read -p 'Enter URL: ' LINK 
+empty $LINK
+
+read -p "Enter Title: " TITLE
+empty $TITLE
+
+read -p "Enter Description: " DESCRIPTION
+empty $DESCRIPTION
+
+read -p "Enter Tag[s] (A B C): " TAGS
+empty $TAGS
+
+TAGS=($TAGS)
+
+echo ""
+echo "- $TITLE - [$LINK]($LINK)"
+echo ""
+echo "  $DESCRIPTION"
+echo ""
+for TAG in "${TAGS[@]}"
+do
+    echo "  ![$TAG](https://img.shields.io/badge/-$TAG-informational)"
+done
+echo ""
