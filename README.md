@@ -10,6 +10,18 @@ A category for project specific links (e.g. github repsitories)
 
 
 
+# Leadgeneration
+
+A category for common tools and helpers for Blogs or Companies to boost their Skills in SEO and lead generation.
+
+- Ubersuggest by Neil Patel - [https://app.neilpatel.com/ubersuggest](https://app.neilpatel.com/ubersuggest)
+
+  Keyword Search and ranking to find out on what people search where and get insights what relates to your product, criteria or knowledge.
+  
+  ![KEYWORDS](https://img.shields.io/badge/-KEYWORDS-informational)
+
+
+
 # Technology
 
 A category for technology related links.
