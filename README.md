@@ -2,15 +2,6 @@
 
 A repository that holds interesting web links and projects from all over the web.
 
-> Contributers pls use the following template
-> ```
-> - Short Description # [https://duckduckgo.com](https://duckduckgo.com)
-> 
->   Long Description
->
->   ![LABEL](https://img.shields.io/badge/-LABEL-<COLOR>)
-> ```
-
 
 
 # Projects
