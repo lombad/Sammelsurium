@@ -20,6 +20,12 @@ A category for common tools and helpers for Blogs or Companies to boost their Sk
   
   ![KEYWORDS](https://img.shields.io/badge/-KEYWORDS-informational)
 
+- Google's Keyword Planner - [https://ads.google.com/home/tools/keyword-planner/](https://ads.google.com/home/tools/keyword-planner/)
+
+  Keyword Planning made by google to search and get rankings of your keywords.
+
+  ![KEYWORDS](https://img.shields.io/badge/-KEYWORDS-informational)
+
 
 
 # Technology
