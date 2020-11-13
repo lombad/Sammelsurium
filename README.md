@@ -49,3 +49,13 @@
   A very good overview of repair and tool instructions for motorcycles. Many repair instructions in different categories for historical bikes and common problems.
   
   ![MOTORCYCLE](https://img.shields.io/badge/-MOTORCYCLE-informational)
+
+
+
+# Marketplaces
+
+- **Sotware Deals** - [https://appsumo.com](https://appsumo.com)
+
+  APPSUMO offers deals on many software projects on the net. Good entry point to save money for freelancers and companies.
+
+  ![DEALS](https://img.shields.io/badge/-DEALS-informational)
