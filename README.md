@@ -26,6 +26,12 @@
 
   ![KEYWORDS](https://img.shields.io/badge/-KEYWORDS-informational)
 
+- **SEO Tool** - [https://www.frase.io](https://www.frase.io)
+
+  Fraser focuses on answers to keywords and not only plain statistics. It will give you a knowledgbase on how you can deliver answers with your content to certain keywords.
+
+  ![KEYWORDS](https://img.shields.io/badge/-KEYWORDS-informational)
+
 
 
 # Technology
