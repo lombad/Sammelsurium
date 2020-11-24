@@ -65,3 +65,9 @@
   APPSUMO offers deals on many software projects on the net. Good entry point to save money for freelancers and companies.
 
   ![DEALS](https://img.shields.io/badge/-DEALS-informational)
+
+- **DIY Shop** - [https://www.etsy.com/](https://www.etsy.com/)
+
+  Sell or Buy Handmade things form real people from around the world
+
+  ![SHOP](https://img.shields.io/badge/-SHOP-informational)
