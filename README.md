@@ -8,6 +8,12 @@
 
 *A category for project specific links (e.g. github repsitories)*
 
+- **Awesome Selfhosted Services List** - [https://github.com/awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
+
+  The most complete List of self hostable services
+
+  ![SERVER](https://img.shields.io/badge/-SERVER-informational)
+  ![SELFHOSTED](https://img.shields.io/badge/-SELFHOSTED-informational)
 
 
 # Leadgeneration
