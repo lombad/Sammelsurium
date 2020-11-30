@@ -26,6 +26,12 @@
 
   ![KEYWORDS](https://img.shields.io/badge/-KEYWORDS-informational)
 
+- **SEO Tool** - [https://www.frase.io](https://www.frase.io)
+
+  Fraser focuses on answers to keywords and not only plain statistics. It will give you a knowledgbase on how you can deliver answers with your content to certain keywords.
+
+  ![KEYWORDS](https://img.shields.io/badge/-KEYWORDS-informational)
+
 
 
 # Technology
@@ -49,3 +55,19 @@
   A very good overview of repair and tool instructions for motorcycles. Many repair instructions in different categories for historical bikes and common problems.
   
   ![MOTORCYCLE](https://img.shields.io/badge/-MOTORCYCLE-informational)
+
+
+
+# Marketplaces
+
+- **Sotware Deals** - [https://appsumo.com](https://appsumo.com)
+
+  APPSUMO offers deals on many software projects on the net. Good entry point to save money for freelancers and companies.
+
+  ![DEALS](https://img.shields.io/badge/-DEALS-informational)
+
+- **DIY Shop** - [https://www.etsy.com/](https://www.etsy.com/)
+
+  Sell or Buy Handmade things form real people from around the world
+
+  ![SHOP](https://img.shields.io/badge/-SHOP-informational)
