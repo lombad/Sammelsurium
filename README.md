@@ -86,3 +86,13 @@
   Search Engine to find html source code used by web pages. Gives you a few free insights on web pages that use a certain technology searched and even more if you pay for it.
 
   ![SEARCH](https://img.shields.io/badge/-SEARCH-informational)
+
+
+# Tools
+
+- **Fix PHP String Serialization** - [http://puvox.software/tools/serialization-fixer](http://puvox.software/tools/serialization-fixer)
+
+  A tool to correct PHP String serialization, it will correct your string lengths if for example you replaced strings at your wp_options table in wordpress.
+
+  ![TOOL](https://img.shields.io/badge/-TOOL-informational)
+  ![PHP](https://img.shields.io/badge/-PHP-informational)
