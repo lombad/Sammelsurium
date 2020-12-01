@@ -77,3 +77,12 @@
   Sell or Buy Handmade things form real people from around the world
 
   ![SHOP](https://img.shields.io/badge/-SHOP-informational)
+
+
+# Search Engines
+
+- **Search Engine for Web Technology** - [https://nerdydata.com](https://nerdydata.com)
+
+  Search Engine to find html source code used by web pages. Gives you a few free insights on web pages that use a certain technology searched and even more if you pay for it.
+
+  ![SEARCH](https://img.shields.io/badge/-SEARCH-informational)
