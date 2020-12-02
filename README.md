@@ -15,6 +15,14 @@
   ![SERVER](https://img.shields.io/badge/-SERVER-informational)
   ![SELFHOSTED](https://img.shields.io/badge/-SELFHOSTED-informational)
 
+- **Translate your Project easily** - [https://hosted.weblate.org](https://hosted.weblate.org)
+
+  A webtool to easily translate .po files from github repos. It also adds suggestions as you need them.
+
+  ![TRANSLATION](https://img.shields.io/badge/-TRANSLATION-informational)
+
+
+
 
 # Leadgeneration
 
