@@ -8,6 +8,20 @@
 
 *A category for project specific links (e.g. github repsitories)*
 
+- **Awesome Selfhosted Services List** - [https://github.com/awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
+
+  The most complete List of self hostable services
+
+  ![SERVER](https://img.shields.io/badge/-SERVER-informational)
+  ![SELFHOSTED](https://img.shields.io/badge/-SELFHOSTED-informational)
+
+- **Translate your Project easily** - [https://hosted.weblate.org](https://hosted.weblate.org)
+
+  A webtool to easily translate .po files from github repos. It also adds suggestions as you need them.
+
+  ![TRANSLATION](https://img.shields.io/badge/-TRANSLATION-informational)
+
+
 
 
 # Leadgeneration
@@ -71,3 +85,28 @@
   Sell or Buy Handmade things form real people from around the world
 
   ![SHOP](https://img.shields.io/badge/-SHOP-informational)
+
+
+# Search Engines
+
+- **Search Engine for Web Technology** - [https://nerdydata.com](https://nerdydata.com)
+
+  Search Engine to find html source code used by web pages. Gives you a few free insights on web pages that use a certain technology searched and even more if you pay for it.
+
+  ![SEARCH](https://img.shields.io/badge/-SEARCH-informational)
+
+
+# Tools
+
+- **Fix PHP String Serialization** - [http://puvox.software/tools/serialization-fixer](http://puvox.software/tools/serialization-fixer)
+
+  A tool to correct PHP String serialization, it will correct your string lengths if for example you replaced strings at your wp_options table in wordpress.
+
+  ![TOOL](https://img.shields.io/badge/-TOOL-informational)
+  ![PHP](https://img.shields.io/badge/-PHP-informational)
+
+- **Password and pwnd check** - [https://haveibeenpwned.com/](https://haveibeenpwned.com/)
+
+  A site which can give you an indicator if your password has been pwned. Includes an API which can be checked for pwned password as well.
+
+  ![PASSWORDS](https://img.shields.io/badge/-PASSWORDS-informational)
