@@ -113,7 +113,7 @@
   ![PASSWORDS](https://img.shields.io/badge/-PASSWORDS-e7fdc6)
 
 
-# PENETRATION TESTING
+# Penetration Testing
 
 - **PHP Generic Gadget Chain** - [https://github.com/ambionics/phpggc](https://github.com/ambionics/phpggc)
 
