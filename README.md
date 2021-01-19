@@ -110,3 +110,9 @@
   A site which can give you an indicator if your password has been pwned. Includes an API which can be checked for pwned password as well.
 
   ![PASSWORDS](https://img.shields.io/badge/-PASSWORDS-informational)
+
+- **PHP Generic Gadget Chain** - [https://github.com/ambionics/phpggc](https://github.com/ambionics/phpggc)
+
+  A library to unserialize payloads along with a tool to generate them.
+
+  ![VULNERABILIETS](https://img.shields.io/badge/-VULNERABILIETS-informational)
