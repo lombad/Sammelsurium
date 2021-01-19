@@ -104,3 +104,9 @@
 
   ![TOOL](https://img.shields.io/badge/-TOOL-informational)
   ![PHP](https://img.shields.io/badge/-PHP-informational)
+
+- **Password and pwnd check** - [https://haveibeenpwned.com/](https://haveibeenpwned.com/)
+
+  A site which can give you an indicator if your password has been pwned. Includes an API which can be checked for pwned password as well.
+
+  ![PASSWORDS](https://img.shields.io/badge/-PASSWORDS-informational)
