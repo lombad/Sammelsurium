@@ -111,8 +111,17 @@
 
   ![PASSWORDS](https://img.shields.io/badge/-PASSWORDS-informational)
 
+
+# PENETRATION TESTING
+
 - **PHP Generic Gadget Chain** - [https://github.com/ambionics/phpggc](https://github.com/ambionics/phpggc)
 
   A library to unserialize payloads along with a tool to generate them.
 
   ![VULNERABILIETS](https://img.shields.io/badge/-VULNERABILIETS-informational)
+
+- **SQL injection toolkit** - [http://sqlmap.org/](http://sqlmap.org/)
+
+  An automatic penetration testing tool for sql injection and flaws regarding databases.
+
+  ![VULNERABILITIES](https://img.shields.io/badge/-VULNERABILITIES-informational)
