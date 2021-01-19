@@ -21,6 +21,10 @@ empty $TAGS
 
 TAGS=($TAGS)
 
+function srgb () {
+    echo -n ${1} | md5sum | cut -c1-6
+}
+
 echo ""
 echo "- **$TITLE** - [$LINK]($LINK)"
 echo ""
@@ -28,6 +32,7 @@ echo "  $DESCRIPTION"
 echo ""
 for TAG in "${TAGS[@]}"
 do
-    echo "  ![$TAG](https://img.shields.io/badge/-$TAG-informational)"
+    COLOR=$(srgb ${TAG})
+    echo "  ![$TAG](https://img.shields.io/badge/-$TAG-$COLOR)"
 done
 echo ""
