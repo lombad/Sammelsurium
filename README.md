@@ -15,6 +15,12 @@
   ![SERVER](https://img.shields.io/badge/-SERVER-3d27c9)
   ![SELFHOSTED](https://img.shields.io/badge/-SELFHOSTED-d8bdf7)
 
+- **Awesome Opensource Projects** - [https://awesomeopensource.com/](https://awesomeopensource.com/)
+
+  Huge List of opensource software which is sortable and filterable for many topics including a good search.
+
+  ![OPENSOURCE](https://img.shields.io/badge/-OPENSOURCE-a3bf9e)
+
 - **Translate your Project easily** - [https://hosted.weblate.org](https://hosted.weblate.org)
 
   A webtool to easily translate .po files from github repos. It also adds suggestions as you need them.
