@@ -27,6 +27,12 @@
 
   ![TRANSLATION](https://img.shields.io/badge/-TRANSLATION-0da044)
 
+- **Python Example Projects** - [https://github.com/geekcomputers/Python](https://github.com/geekcomputers/Python)
+
+  A Repository for all kinds of Python based projects.
+
+  ![Python](https://img.shields.io/badge/-Python-a7f5f3)
+  ![Examples](https://img.shields.io/badge/-Examples-ff7c0f)
 
 
 
